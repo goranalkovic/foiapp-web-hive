@@ -7,7 +7,7 @@ const RESOURCES = {
 "/assets\LICENSE": "dfb3df3123ce64f6a27c02eb2cdd4e76",
 "/assets\packages\outline_material_icons\lib\outline_material_icons.ttf": "6b94994fffd9868330d830fcb18a6026",
 "/index.html": "f4dba618bb5da9faf9376b6a9cf9b74e",
-"/main.dart.js": "0d8647ffebb1ea34ffbbcb3b458e840c"
+"/main.dart.js": "f7931c9e0c38ac7b2dcba640798f6594"
 };
 
 self.addEventListener('activate', function (event) {
